@@ -164,19 +164,7 @@ Use DBConnection.java.example as the template.
 
 Learning Outcomes
 
-## Screenshots
 
-### Main Menu
-
-![EduTrack Main Menu](screenshots/main-menu.png)
-
-### View Students
-
-![View Students](screenshots/view-students.png)
-
-### View Result
-
-![View Result](screenshots/view-result.png)
 
 Core Java
 Object-Oriented Programming
